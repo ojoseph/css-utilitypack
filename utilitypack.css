@@ -1,0 +1,253 @@
+/************************************************************************************************
+Utility classes
+************************************************************************************************/
+.text-center{
+  text-align: center;
+}
+
+.text-left{
+  text-align: left;
+}
+
+.text-right{
+  text-align: right;
+}
+
+.padding-bottom-05rrem{
+    padding-bottom: 0.5rem;
+}
+
+.padding-bottom-1rem{
+    padding-bottom: 1rem;
+}
+
+.padding-bottom-2rem{
+    padding-bottom: 2rem;
+}
+
+.padding-bottom-3rem{
+    padding-bottom: 3rem;
+}
+
+.padding-bottom-4rem{
+    padding-bottom: 4rem;
+}
+
+
+.padding-top-05rem{
+    padding-top: 0.5rem;
+}
+
+.padding-top-1rem{
+    padding-top: 1rem;
+}
+
+.padding-top-2rem{
+    padding-top: 2rem;
+}
+
+.padding-top-3rem{
+    padding-top: 3rem;
+}
+
+.padding-top-4rem{
+    padding-top: 4rem;
+}
+
+.padding-top-5rem{
+    padding-top: 5rem;
+}
+
+.padding-top-6rem{
+    padding-top: 6rem;
+}
+
+.padding-top-7rem{
+    padding-top: 7rem;
+}
+
+.padding-top-8rem{
+    padding-top: 8rem;
+}
+
+
+.padding-right-1rem{
+    padding-right:1rem;
+}
+
+.padding-right-2rem{
+    padding-right:2rem;
+}
+
+.padding-right-3rem{
+    padding-right:3rem;
+}
+
+.padding-right-4rem{
+    padding-right:4rem;
+}
+
+.padding-right-5rem{
+    padding-right:5rem;
+}
+
+.padding-right-6rem{
+    padding-right:6rem;
+}
+
+
+/* Bottom */
+.margin-bottom-05rem{
+    margin-bottom: 0.5rem;
+}
+
+.margin-bottom-1rem{
+    margin-bottom: 1rem;
+}
+
+.margin-bottom-2rem{
+    margin-bottom: 2rem;
+}
+
+.margin-bottom-3rem{
+    margin-bottom: 3rem;
+}
+
+.margin-bottom-4rem{
+    margin-bottom: 4rem;
+}
+
+.margin-bottom-5rem{
+    margin-bottom: 5rem;
+}
+
+.margin-bottom-6rem{
+    margin-bottom: 6rem;
+}
+
+.margin-bottom-7rem{
+    margin-bottom: 7rem;
+}
+
+.margin-bottom-8rem{
+    margin-bottom: 8rem;
+}
+
+.margin-bottom-9rem{
+    margin-bottom: 9rem;
+}
+
+.margin-bottom-14rem{
+    margin-bottom: 14rem;
+}
+
+/* Top */
+.margin-top-05rem{
+    margin-top: 0.5rem;
+}
+
+.margin-top-1rem{
+    margin-top: 1rem;
+}
+
+.margin-top-2rem{
+    margin-top: 2rem;
+}
+
+.margin-top-3rem{
+    margin-top: 3rem;
+}
+
+.margin-top-4rem{
+    margin-top: 4rem;
+}
+
+.margin-top-5rem{
+    margin-top: 5rem;
+}
+
+.margin-top-6rem{
+    margin-top: 6rem;
+}
+
+.margin-top-7rem{
+    margin-top: 7rem;
+}
+
+.margin-top-8rem{
+    margin-top: 8rem;
+}
+
+.margin-top-9rem{
+    margin-top: 9rem;
+}
+
+.margin-top-10rem{
+    margin-top: 10rem;
+}
+
+.margin-top-11rem{
+    margin-top: 10rem;
+}
+
+.margin-top-12rem{
+    margin-top: 12rem;
+}
+
+.margin-top-13rem{
+    margin-top: 13rem;
+}
+
+.margin-top-14rem{
+    margin-top: 14rem;
+}
+
+/* Right */
+.margin-right-05rem{
+    margin-right: 0.5rem;
+}
+
+.margin-right-1rem{
+    margin-right: 1rem;
+}
+
+.margin-right-2rem{
+    margin-right: 2rem;
+}
+
+.margin-right-3rem{
+    margin-right: 3rem;
+}
+
+.margin-right-4rem{
+    margin-right: 4rem;
+}
+
+.margin-right-5rem{
+    margin-right: 5rem;
+}
+
+.margin-right-6rem{
+    margin-right: 6rem;
+}
+
+.margin-right-7rem{
+    margin-right: 7rem;
+}
+
+/* Left */
+.margin-left-05rem{
+    margin-left: 0.5rem;
+}
+
+.margin-left-1rem{
+    margin-left: 1rem;
+}
+
+
+/***************************/
+/*nullifier*/
+.nullify-spacing{
+  padding: 0px !important;
+  margin: 0px !important;
+}
